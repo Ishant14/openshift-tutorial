@@ -57,6 +57,7 @@ With LCOW, the Docker daemon runs as a Windows process (same as when running Doc
 Because there’s only one Docker daemon, and because that daemon now runs on Windows, it will soon be possible to run Windows and Linux Docker containers side-by-side, in the same networking namespace. This will unlock a lot of exciting development and production scenarios for Docker users on Windows.
 
 
+**How doeos Kubernetes help ?** 
 
 Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.
 
