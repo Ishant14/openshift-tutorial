@@ -64,6 +64,11 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 
 
 
+1) An enterprise application  has to go through different  environment like DEV, TEST, UAT before going to production.
+2) Setting up each environment requires a lot of effort like we have to do the required configuration on each of the environment, all the required libraries has to be maintained for each of them.
+3) Mostly it has been seen that due to different security cocnern , DEV has different libraries and UAT has different confiuration and libraries which has created a lot of problem for the developers.
+4) A whole team has to create to take care of the complete end to end funcitonality. 
+5) Still feasible for moniolithic application but becomes very difficult to maintain the same when we go for the microservices architecture. 
 
 
 
